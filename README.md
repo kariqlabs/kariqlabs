@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi, I'm Paul Karikari Aninakwah 👋</h1>
  
 <p align="center">
@@ -36,13 +35,13 @@ I'm a Computer Science student at the University of Ghana with a passion for tur
 ## 📊 GitHub Stats
  
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Streetcode546&show_icons=true&theme=default&hide_border=true" alt="Streetcode546's GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Streetcode546&layout=compact&hide_border=true" alt="Top languages">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kariqlabs&show_icons=true&theme=default&hide_border=true" alt="kariqlabs' GitHub stats">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kariqlabs&layout=compact&hide_border=true" alt="Top languages">
 </p>
 ## 📫 Let's Connect
  
 - 📍 Based in Accra, Ghana
-- 💻 GitHub: [@Streetcode546](https://github.com/Streetcode546)
+- 💻 GitHub: [@kariqlabs](https://github.com/kariqlabs)
 - 🤝 Open to collaborating on projects, learning opportunities and internships
 ---
  
